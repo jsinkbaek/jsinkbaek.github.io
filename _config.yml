@@ -82,10 +82,16 @@ author:
 publication_category:
   books:
     title: 'Books'
+  manuscripts-first:
+    title: 'Peer-reviewed, first and second author'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Peer-reviewed'
+  manuscript-arxiv:
+    title: 'Not peer-reviewed'
   conferences:
-    title: 'Conference Papers'
+    title: 'In Conference Proceedings'
+  misc:
+    title: 'Miscellaneous'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
