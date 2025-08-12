@@ -1,0 +1,21 @@
+---
+title: "Connecting integrated red giant branch mass loss from asteroseismology and globular clusters"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-massloss
+excerpt: 'Karsten Brogaard led this work, where we used a catalogue of measurements of stellar masses obtained with asteroseismology together with survey spectroscopy (APOGEE DR17), parallaxes (Gaia DR3), and photometry (2MASS), in order to derive integrated mass loss rates of the of the Milky Way thick disk stars. This was done by comparing the masses of RGB stars (hydrogen-shell burning) to that of the more evolved core-Helium burning stars.'
+date: 2024-10-01
+venue: 'Astronomy & Astrophysics'
+paperurl: 'https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.288B/abstract'
+citation: 
+---
+
+*Context*. Asteroseismic investigations of solar-like oscillations in giant stars enable the derivation of their masses and radii. For mono-age mono-metallicity populations of stars, this allows the integrated red giant branch (RGB) mass loss to be estimated by comparing the median mass of the low-luminosity RGB stars to that of the helium-core-burning (HeCB) stars. 
+
+*Aims*. We aim to exploit quasi-mono-age mono-metallicity populations of field stars in the α-rich sequence of the Milky Way (MW) to derive the integrated mass loss and its dependence on metallicity. By comparison to metal-rich globular clusters (GCs), we wish to determine whether the RGB mass loss differs in the two environments. 
+
+*Methods*. We used catalogues of asteroseismic parameters based on time-series photometry from the Kepler and K2 missions cross-matched to spectroscopic information from APOGEE-DR17, photometry from 2MASS, parallaxes from Gaia DR3, and reddening maps. We determined the RGB mass loss by comparing mass distributions of RGB and HeCB stars in three metallicity bins. For two GCs, the mass loss is derived from colour–magnitude diagrams. 
+
+*Results*. We find the integrated RGB mass loss to increase with decreasing metallicity and/or mass in the [Fe/H] range from ‑0.9 to +0.0. At [Fe/H] = ‑0.50, the RGB mass loss of MW α-rich field stars is compatible with that in GCs of the same metallicity. 
+
+*Conclusions*. We provide novel empirical determinations of the integrated mass loss connecting field stars and GC stars at comparable metallicities. These show that mass loss cannot be accurately described by a Reimers mass-loss law with a single value of η. This should encourage further development of the theory underlying processes involved in mass loss.
