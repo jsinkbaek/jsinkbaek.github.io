@@ -27,12 +27,12 @@ author:
   pronouns         : "he/him" # example: "she/her"  
   bio              : "PhD student in astrophysics"
   location         : "Italy"
-  employer         : "University of Bologna"
+  employer         : "[University of Bologna](https://www.unibo.it/sitoweb/jeppe.thomsen2)"
   uri              : # URL
   email            : "j.s.thomsen@pm.me" 
 
   # Academic websites
-  academia         : "https://www.unibo.it/sitoweb/jeppe.thomsen2" # URL
+  academia         : # URL
   arxiv            : "https://arxiv.org/a/thomsen_j_1.html" # URL - Update with the correct link to your profile
   googlescholar    : # URL
   inspire-hep      : # URL
