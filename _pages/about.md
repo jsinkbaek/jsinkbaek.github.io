@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Jeppe Sinkbæk Thomsen's personal website"
+title: "Jeppe Sinkbæk Thomsen's personal page"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a danish PhD researcher in astrophysics working at the Department of Physics and Astronomy "Augusto Righi" University of Bologna. My supervisor is Prof. Andrea Miglio, and I work closely with the rest of the local asteroseismic group which he leads.
+I am a PhD student in astrophysics working at the Department of Physics and Astronomy "Augusto Righi" University of Bologna. My supervisor is Prof. Andrea Miglio, and I work closely with the rest of the local asteroseismic group which he leads.
 
 My main targets of study are oscillating red giant stars in binary systems, particularly in eclipsing binaries or systems comprising two red giants with detectable solar-like oscillations (so-called asteroseismic binaries). These binaries provide excellent laboratories to test the capabilities of our stellar evolutionary models, as they allow for very high-precision (1 percent) independent measurements of fundamental and asteroseismic stellar parameters.
 
