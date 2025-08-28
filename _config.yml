@@ -94,12 +94,12 @@ publication_category:
     title: 'Miscellaneous'
 
 talk_category:
-  seminars:
-    title: 'Seminars'
   talks:
     title: 'Talks'
+  seminars:
+    title: 'Seminars'
   posters:
-    title: 'Posters'
+    title: 'Poster presentations'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
